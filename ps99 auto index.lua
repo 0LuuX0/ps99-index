@@ -1,5 +1,5 @@
 
-local hatchCountPerRequest = 18    -- how many you can hatch at once
+local hatchCountPerRequest = 56    -- how many you can hatch at once
 local totalRequestCount = 1000    -- how many to hatch each egg
 
 
@@ -7,17 +7,6 @@ local totalRequestCount = 1000    -- how many to hatch each egg
 
 
 local eggsList = {
-    "Cracked Egg",
-    "Spotted Egg",
-    "Paw Egg",
-    "Grass Egg",
-    "Wood Egg",
-    "Pumpkin Egg",
-    "Hive Egg",
-    "Acorn Egg",
-    "Blossom Egg",
-    "Corgi Egg",
-    "Cat Egg",
     "Dog Egg",
     "Dragon Egg",
     "Rock Egg",
